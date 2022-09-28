@@ -1,2 +1,2 @@
-# Project_1
+# Car price prediction
 Recall of basic notions
